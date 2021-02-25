@@ -1,0 +1,2 @@
+D:\C++Projects\BankingApp\Debug\BankingApp.exe
+D:\C++Projects\BankingApp\Debug\BankingApp.pdb
